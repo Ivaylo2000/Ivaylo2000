@@ -9,7 +9,7 @@
 
 <p align="left">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack</h3>
 <p align="left"> <img
       src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,nextjs,nodejs,expressjs,mongodb&theme=dark&perline=15"
       alt="My Skills"
