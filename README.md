@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ivaylo</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer with a strong interest in building dynamic, responsive, and user-friendly web applications. </h3>
 
-- 👨‍💻 All of my projects are available at [https://my-cv-eosin-nine.vercel.app/](https://my-cv-eosin-nine.vercel.app/)
+- 💻 You can see more about me in <a href="https://my-cv-eosin-nine.vercel.app/" target="_blank">**My Portfolio**</a>
 
-- 📫 How to reach me **ivaylo07082000@gmail.com**
+- 📫 Contact: **ivaylo07082000@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- 🎓 Education:  **University of Economics Varna** - Bachelor's Degree in Computer Science
+
 <p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img
