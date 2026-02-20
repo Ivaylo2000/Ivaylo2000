@@ -12,6 +12,6 @@
 
 <h3 align="left">Tech Stack</h3>
 <p align="left"> <img
-      src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,typescript,nextjs,nodejs,expressjs,mongodb,git&theme=dark&perline=15"
+      src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs&theme=dark&perline=15"
       alt="My Skills"
     /> </p>
