@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivaylo</h1>
 <h3 align="center">Motivated software developer with full-stack experience, eager to learn, solve problems, and grow.</h3>
 
-- 💻 **Web Portfolio:** You can see more about me in <a href="https://my-cv-eosin-nine.vercel.app/" target="_blank">**My Portfolio**</a>
 
 - 📫 **Contact:** ivaylo07082000@gmail.com
 
